@@ -4,7 +4,7 @@
 ApollonStreamAPI
 </h1>
 
-ApolloStreamは、Androidデバイスのスクリーンショットをリアルタイムでストリーミングするためのツールです。
+ApollonStreamAPIは、Androidデバイスのスクリーンショットをリアルタイムでストリーミングするためのツールです。
 
 FastAPIを使用してWebSocketサーバーを構築し、ADBコマンドを使用してスクリーンショットを取得します。
 
@@ -57,7 +57,7 @@ python demo/demo_screenshot_standalone.py
 ADBの`screencap`コマンドのヘルプは以下の通りです。
 
 ```bash
-(ApolloStream) C:\Prj\_ApolloStream\demo>adb shell screencap -h    
+(ApollonStreamAPI) C:\Prj\_ApollonStreamAPI\demo>adb shell screencap -h    
 usage: screencap [-hp] [-d display-id] [FILENAME]
    -h: this message
    -p: save the file as a png.
@@ -69,6 +69,6 @@ If FILENAME is not given, the results will be printed to stdout.
 
 ## 注意事項
 
-- ApolloStreamを使用するには、AndroidデバイスとADBの設定が正しく行われている必要があります。
+- ApollonStreamAPIを使用するには、AndroidデバイスとADBの設定が正しく行われている必要があります。
 - サーバーとクライアントは同じネットワーク上で実行してください。
 - デモ画像のストリーミングには、`demo/demo.jpg`が必要です。
