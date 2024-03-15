@@ -1,5 +1,8 @@
-# ApollonStreamAPI
 
+<h1>
+<img src="https://raw.githubusercontent.com/Sunwood-ai-labs/Manim-Examples-Docker/main/docs/Animatos.png" height=300px align="right"/>
+ApollonStreamAPI
+</h1>
 
 ApolloStreamは、Androidデバイスのスクリーンショットをリアルタイムでストリーミングするためのツールです。FastAPIを使用してWebSocketサーバーを構築し、ADBコマンドを使用してスクリーンショットを取得します。
 
