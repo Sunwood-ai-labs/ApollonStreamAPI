@@ -1,6 +1,6 @@
 
 <h1>
-<img src="https://raw.githubusercontent.com/Sunwood-ai-labs/ApollonStreamAPI/main/docs/Apollon_icon.png" height=300px align="right"/>
+<img src="https://raw.githubusercontent.com/Sunwood-ai-labs/ApollonStreamAPI/main/docs/Apollon_icon.png" height=200px align="right"/>
 ApollonStreamAPI
 </h1>
 
