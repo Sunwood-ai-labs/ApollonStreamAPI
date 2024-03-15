@@ -40,6 +40,8 @@ python demo/demo_screencap_client.py
 
 2. クライアントは、サーバーからストリーミングされたスクリーンショットを受信し、`received_image.jpg`として保存します。
 
+![](https://raw.githubusercontent.com/Sunwood-ai-labs/ApollonStreamAPI/main/demo/screenshot.jpg)
+
 ## 疎通確認
 
 スタンドアロンでのスクリーンショット取得と保存の処理時間を確認するには、`demo/demo_screenshot_standalone.py`を実行します。
