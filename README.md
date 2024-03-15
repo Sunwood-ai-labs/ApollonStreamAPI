@@ -21,7 +21,7 @@ FastAPIを使用してWebSocketサーバーを構築し、ADBコマンドを使�
 1. FastAPIとUvicornをインストールします。
 
 ```bash
-pip install fastapi uvicorn
+pip install fastapi uvicorn pillow websockets
 ```
 
 2. `api/screencap_server.py`を実行してサーバーを起動します。
